@@ -18,7 +18,7 @@
 
 ```
 > Director / VFX Supervisor / Solo Builder — Kathmandu, Nepal
-> Pipeline: Houdini → Blender → DaVinci Resolve (Fusion → Fairlight → Edit → Color)
+> Pipeline: Pixel Camera → DaVinci Resolve (Fusion → Fairlight → Edit → Color)
 > Ships products the same way he shoots films — alone, at night, and fast.
 ```
 
