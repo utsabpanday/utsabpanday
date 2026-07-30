@@ -2,15 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0208,50:003B00,100:00FF41&height=220&section=header&text=UTSAB%20PANDAY&fontSize=42&fontColor=39FF14&animation=twinkling&fontAlignY=36&desc=a.k.a.%20%5BBATMAN%5D&descAlignY=55&descSize=22&descColor=39FF14" width="100%"/>
 
-<img src="assets/bat-logo.svg" width="300"/>
+<img src="https://utsabpanday.com.np/icon.png?icon.3qm69wy1l-nak.png" width="140" style="border-radius:20px"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=640&lines=aka+Batman;VFX+Supervisor+%7C+Director;Solo+Builder+%E2%80%A2+Kathmandu%2C+Nepal;I+work+alone%2C+mostly+at+night." />
 
 <br/>
 
-<img src="https://img.shields.io/badge/LOCATION-KATHMANDU%2C_NEPAL-000000?style=for-the-badge&labelColor=0D0208&color=39FF14&logo=googlemaps&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/ROLE-DIRECTOR_%7C_VFX_SUPERVISOR-000000?style=for-the-badge&labelColor=0D0208&color=39FF14" />
-<img src="https://img.shields.io/badge/STATUS-BUILDING_IN_THE_DARK-000000?style=for-the-badge&labelColor=0D0208&color=39FF14" />
+<img src="assets/status-bar.svg" width="560"/>
 
 <br/><br/>
 
