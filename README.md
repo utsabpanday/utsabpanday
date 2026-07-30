@@ -103,7 +103,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=utsabpanday&label=SIGNAL+RECEIVED&color=39FF14&style=for-the-badge&labelColor=0D0208" />
+<img src="https://komarev.com/ghpvc/?username=utsabpanday&label=SIGNAL+RECEIVED&color=39FF14&style=for-the-badge&labelColor=555555" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0D0208&height=100&section=footer" width="100%"/>
 
