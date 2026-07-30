@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0208,50:003B00,100:00FF41&height=220&section=header&text=UTSAB%20PANDAY&fontSize=42&fontColor=39FF14&animation=twinkling&fontAlignY=36&desc=a.k.a.%20%5BBATMAN%5D&descAlignY=55&descSize=22&descColor=39FF14" width="100%"/>
 
-<a href="https://utsabpanday.com.np"><img src="https://utsabpanday.com.np/draftillappicon.png" width="140" style="border-radius:24px"/></a>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=640&lines=aka+Batman;VFX+Supervisor+%7C+Director;Solo+Builder+%E2%80%A2+Kathmandu%2C+Nepal;I+work+alone%2C+mostly+at+night." />
 
 </div>
