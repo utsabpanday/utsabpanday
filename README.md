@@ -46,7 +46,7 @@
 </td>
 <td>
 <a href="https://www.pixpair.com"><b>Pixpair</b></a><br/>
-<sub>Digital asset marketplace, built on Next.js + Supabase + Cloudflare R2.</sub>
+<sub>Digital asset marketplace.</sub>
 </td>
 </tr>
 <tr>
@@ -73,7 +73,7 @@
 </td>
 <td>
 <a href="https://lipiconverter.com"><b>LipiConverter</b></a><br/>
-<sub>Nepali Unicode ⇄ Preeti conversion tool, used monthly by thousands — plus a native Windows IME.</sub>
+<sub>Nepali Unicode ⇄ Preeti conversion tool, used monthly by thousands.</sub>
 </td>
 </tr>
 <tr>
