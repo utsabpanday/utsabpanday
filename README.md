@@ -99,7 +99,7 @@
   <img alt="matrix snake eating the contribution graph" src="https://raw.githubusercontent.com/utsabpanday/utsabpanday/output/snake.svg" />
 </picture>
 
-<sub>⚡ animated automatically every 6 hours by the included GitHub Action — see <code>.github/workflows/snake.yml</code></sub>
+
 
 <br/><br/>
 
