@@ -46,7 +46,7 @@
 </td>
 <td>
 <a href="https://www.pixpair.com"><b>Pixpair</b></a><br/>
-<sub>Digital asset marketplace.</sub>
+<sub>Digital asset marketplace, built on Next.js + Supabase + Cloudflare R2.</sub>
 </td>
 </tr>
 <tr>
@@ -73,7 +73,7 @@
 </td>
 <td>
 <a href="https://lipiconverter.com"><b>LipiConverter</b></a><br/>
-<sub>Nepali Unicode ⇄ Preeti conversion tool, used monthly by thousands.</sub>
+<sub>Nepali Unicode ⇄ Preeti conversion tool, used monthly by thousands — plus a native Windows IME.</sub>
 </td>
 </tr>
 <tr>
@@ -94,16 +94,16 @@
 ### signal in the dark 🦇
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nepaliparadox/nepaliparadox/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nepaliparadox/nepaliparadox/output/snake.svg" />
-  <img alt="matrix snake eating the contribution graph" src="https://raw.githubusercontent.com/nepaliparadox/nepaliparadox/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/utsabpanday/utsabpanday/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/utsabpanday/utsabpanday/output/snake.svg" />
+  <img alt="matrix snake eating the contribution graph" src="https://raw.githubusercontent.com/utsabpanday/utsabpanday/output/snake.svg" />
 </picture>
 
 <sub>⚡ animated automatically every 6 hours by the included GitHub Action — see <code>.github/workflows/snake.yml</code></sub>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=nepaliparadox&label=SIGNAL+RECEIVED&color=39FF14&style=for-the-badge&labelColor=0D0208" />
+<img src="https://komarev.com/ghpvc/?username=utsabpanday&label=SIGNAL+RECEIVED&color=39FF14&style=for-the-badge&labelColor=0D0208" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0D0208&height=100&section=footer" width="100%"/>
 
